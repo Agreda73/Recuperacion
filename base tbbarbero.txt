@@ -1,0 +1,7 @@
+Create table tbBarbero(
+UUID_Barbero varchar2(100),
+nombre_barbero varchar2(100),
+edad_barbero number,
+peso_barber number,
+correo_barbero varchar2(100)
+);
